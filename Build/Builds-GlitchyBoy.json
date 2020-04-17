@@ -1,0 +1,11 @@
+{
+"companyName": "com.Voxels",
+"productName": "GlitchyBoy2020",
+"dataUrl": "Builds-GlitchyBoy.data.unityweb",
+"asmCodeUrl": "Builds-GlitchyBoy.asm.code.unityweb",
+"asmMemoryUrl": "Builds-GlitchyBoy.asm.memory.unityweb",
+"asmFrameworkUrl": "Builds-GlitchyBoy.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
